@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1583348858 source:c:\users\leo\cb_projects\phonefraudpursuit\main.cpp
+	<iostream>
+	<Strings.h>
+	<stdio.h>
+	<stdlib.h>
+	<array>
+	<dir.h>
+	<vector>
+	<fstream>
+	<algorithm>
+	<chrono>
+	<thread>
+	<windows.h>
+	<Lmcons.h>
+	<ctime>
+	<winver.h>
+
+1583349464 source:c:\users\leo\cb_projects\phonefraudpursuit\resources.rc
+
